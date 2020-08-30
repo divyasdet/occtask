@@ -1,0 +1,12 @@
+[ 
+
+
+    {"firstName":"Divya", "lastName":"Budda","age":"36", "address":"123 Test Valley","salary":125000},      
+    {"firstName":"Vijay", "lastName":"Thonup","age":"40", "address":"124 Test Valley","salary":100000}, 
+    {"firstName":"Naomi", "lastName":"Ferguson","age":"49", "address":"133 Test Valley","salary":230000},
+    {"firstName":"Elian", "lastName":"Ellis","age":"48", "address":"142 Test Valley","salary":300000},
+    {"firstName":"Daniel", "lastName":"Russell","age":"49", "address":"141 Test Valley","salary":290000},
+    {"firstName":"Alisa", "lastName":"Rogers","age":"41", "address":"140 Test Valley","salary":280000}
+ 
+    
+]

@@ -18,8 +18,8 @@ import java.util.*;
 public class EmployeeUtil {
 	
 	//Input File Path
-    public static final String jsonFilePath = "src\\main\\resources\\employee.json";
-    public static final String excelFilePath = "src\\main\\resources\\employee.csv";
+    public static final String jsonFilePath = "src/main/resources/employee.json";
+    public static final String excelFilePath = "src/main/resources/employee.csv";
     
     
     //Generate Unique Values From JSON and CSV
